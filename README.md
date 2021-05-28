@@ -1,6 +1,6 @@
 # Combinatorial optimization demos with Gurobi
 
-The codes in this repo solve various combinatorial optimization problems. They use integer programming models and are solved with the Gurobi solver. All codes are written in python. For handling networks, the codes use NetworkX.
+These codes solve various [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization) problems, using the [integer programming](https://en.wikipedia.org/wiki/Integer_programming) solver called [Gurobi](https://en.wikipedia.org/wiki/Gurobi). All codes are written in Python and handle networks with [NetworkX](https://en.wikipedia.org/wiki/NetworkX).
 
 Generally speaking, the IP models and codes increase in difficulty as follows:
 1. [knapsack](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/knapsack.ipynb)
