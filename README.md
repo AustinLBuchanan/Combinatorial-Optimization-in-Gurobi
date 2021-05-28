@@ -1,8 +1,8 @@
 # Combinatorial optimization demos with Gurobi
 
-These codes solve various [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization) problems, using the [integer programming](https://en.wikipedia.org/wiki/Integer_programming) solver called [Gurobi](https://en.wikipedia.org/wiki/Gurobi). All codes are written in Python and handle networks with [NetworkX](https://en.wikipedia.org/wiki/NetworkX).
+These codes solve various [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization) problems, using the [integer programming](https://en.wikipedia.org/wiki/Integer_programming) solver [Gurobi](https://en.wikipedia.org/wiki/Gurobi). All codes are written in Python and handle networks with [NetworkX](https://en.wikipedia.org/wiki/NetworkX).
 
-Generally speaking, the IP models and codes increase in difficulty as follows:
+The IP models generally increase in difficulty:
 1. [knapsack](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/knapsack.ipynb)
 2. [vertex cover](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/vertex-cover.ipynb)
 3. [independent set](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/ind-set.ipynb)
