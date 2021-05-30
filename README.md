@@ -13,6 +13,7 @@ The IP models generally increase in difficulty:
 8. [max flow](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/max-flow.ipynb)
 9. [shortest path](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/shortest-path.ipynb)
 10. [assignment problem](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/assignment.ipynb)
-11. spanning tree (DFJ, MCF)
-12. traveling salesman (MTZ, DFJ, MCF)
+11. coloring (via [labeling](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/coloring-via-labeling.ipynb), [asymmetric representatives](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/coloring-via-asymmetric-representatives.ipynb), [set cover](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/coloring-via-set-cover.ipynb))
+12. spanning tree (DFJ, MCF)
+13. traveling salesman (MTZ, DFJ, MCF)
 
