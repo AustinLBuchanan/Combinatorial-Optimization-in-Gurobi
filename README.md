@@ -14,6 +14,6 @@ The IP models generally increase in difficulty:
 9. [shortest path](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/shortest-path.ipynb)
 10. [assignment problem](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/assignment.ipynb)
 11. coloring (via [labeling](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/coloring-via-labeling.ipynb), [asymmetric representatives](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/coloring-via-asymmetric-representatives.ipynb), [set cover](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/coloring-via-set-cover.ipynb))
-12. spanning tree (DFJ, MCF)
+12. spanning tree (via [single-commodity flow](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/spanning-tree-via-scf.ipynb), [multi-commodity flow](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/spanning-tree-via-mcf.ipynb), [directed cut](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/spanning-tree-via-directed-cut.ipynb), [Dantzig-Fulkerson-Johnson](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/spanning-tree-via-DFJ.ipynb))
 13. traveling salesman (MTZ, DFJ, MCF)
 
