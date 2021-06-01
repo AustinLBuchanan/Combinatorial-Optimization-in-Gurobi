@@ -5,7 +5,7 @@ These codes solve various [combinatorial optimization](https://en.wikipedia.org/
 The IP models generally increase in difficulty:
 1. [knapsack](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/knapsack.ipynb)
 2. [vertex cover](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/vertex-cover.ipynb)
-3. [independent set](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/ind-set.ipynb)
+3. [independent set](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/independent-set.ipynb)
 4. [clique](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/clique.ipynb) (relaxations: [k-plex](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/k-plex.ipynb), [quasi-clique](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/quasi-clique.ipynb), [2-club](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/2-club.ipynb), [k-club](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/k-club.ipynb)) (extension: [independent union of cliques](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/independent-union-of-cliques.ipynb))
 5. [dominating set](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/dom-set.ipynb) and [connected dominating set](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/connected-dominating-set.ipynb)
 6. [matching](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi/blob/main/matching.ipynb)
